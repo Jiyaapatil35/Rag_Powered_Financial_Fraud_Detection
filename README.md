@@ -6,6 +6,8 @@ This project presents an AI-powered financial fraud analysis system that combine
 
 Unlike traditional fraud detection systems that provide only binary predictions, this framework performs semantic retrieval, fraud scoring, transaction entity extraction, and explainable risk analysis to improve transparency and decision-making.
 
+<img width="1379" height="907" alt="Fig1" src="https://github.com/user-attachments/assets/3d94e2e3-eebf-497f-94c6-08785990cb78" />
+
 ## Publication Status
 
 **Role:** Primary Author
